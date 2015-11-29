@@ -1,0 +1,1 @@
+A mini javascript calendar application, like google calendar.
